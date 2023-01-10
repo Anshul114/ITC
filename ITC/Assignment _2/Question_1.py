@@ -13,11 +13,7 @@ print(string4)
 
 print(string.find("a"));        #e
 
-string5 = ""                    #f
-for i in string:
-    if i != " ":
-        string5 = string5 + i
-print(string5)
+
 
 
 
